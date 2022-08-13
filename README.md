@@ -18,3 +18,6 @@ const Component = () => {
   return <FaHome className='icon'></FaHome>;
 };
 ```
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/99d48f5f-8aaa-478b-8c96-18d5b51e351c/deploy-status)](https://app.netlify.com/sites/accordion-project-setup/deploys)
